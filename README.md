@@ -1,5 +1,17 @@
 # Spring Microservice Handbook
 
+## Descrição
+Handbook de arquitetura de microservices na prática: da modelagem do domínio aos padrões distribuídos (Saga, Event Driven, Circuit Breaker, API Gateway), com implementação no ecossistema Spring — Boot, Cloud, Data e Security.
+
+O conteúdo é dividido em artigos, que trazem a fundamentação teórica e conceitual de cada tema, e projetos, que colocam esses conceitos em prática através de implementações reais utilizando o ecossistema Spring.
+
+## Projetos
+- **Spring Security**
+  - [Auth Service](https://github.com/JG-OLIVEIRA/auth-service)
+- **Spring Data**
+  - MongoDB
+    - [Product Service](https://github.com/JG-OLIVEIRA/product-service)
+
 ## Arquitetura Microservices
 - Evolução Arquitetural
 - Modelagem de Arquiteturas Distribuídas
