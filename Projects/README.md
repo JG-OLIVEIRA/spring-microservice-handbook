@@ -1,0 +1,9 @@
+## Ecossitema Spring
+- **Spring Framework**
+- **Spring Boot**
+- **Spring Web**
+- **Spring HATEOAS**
+- **Spring Cloud**
+- **Spring Data**
+- **Spring Security**
+  - [Auth Service](https://github.com/JG-OLIVEIRA/auth-service)
